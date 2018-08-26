@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShootSharksDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F9B214661F8BA726167FCAB8C86FDF897D382F51</string>
+				<key>dateExpires</key>
+				<string>19/06/2019</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BS94KU7P4Q.com.shootinsharks.NCV</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BS94KU7P4Q</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ShootSharksDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9b69632f-1b5d-4372-a2d2-bf312dc73e3f</string>
+				<key>name</key>
+				<string>NCV shootinsharks ad hoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BS94KU7P4Q</string>
+				<key>name</key>
+				<string>Jinfei Shi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
