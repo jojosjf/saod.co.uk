@@ -50,7 +50,9 @@ Route::get('/ncv', function(){
 //        return "here";
 	return '<a href="itms-services://?action=download-manifest&url=https://saod.co.uk/resources/ipas/app.plist">Install NCV - iOS</a> 
 			<br><br>
-			<a href="resources/ipas/landlordsangelDemo.apk">Install NCV - Android </a>';
+			<a href="resources/ipas/landlordsangelDemo.apk">Install NCV - Android </a>
+		<br><br>
+		Test';
 //		header( 'Location: itms-services://?action=download-manifest&url=https://saod.co.uk/resources/ipas/app.plist' );
 //        return response()->json($inspections);
 });
