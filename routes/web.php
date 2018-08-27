@@ -52,7 +52,7 @@ Route::get('/ncv', function(){
 			<br><br>
 			<a href="resources/ipas/landlordsangelDemo.apk">Install NCV - Android </a>
 		<br><br>
-		Test';
+		Test1..2..3';
 //		header( 'Location: itms-services://?action=download-manifest&url=https://saod.co.uk/resources/ipas/app.plist' );
 //        return response()->json($inspections);
 });
